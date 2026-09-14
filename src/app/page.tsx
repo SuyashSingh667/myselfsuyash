@@ -184,11 +184,11 @@ const CERTIFICATIONS: PhotoStackItem[] = [
     verifyUrl: "https://www.credly.com/go/Ds9fFCYf",
   },
   {
-    src: "/certificates/aws_data_engineering.png",
-    name: "AWS Data Engineering",
-    issuer: "AWS Academy",
-    date: "03/07/2026",
-    verifyUrl: "https://www.credly.com/go/nKX4bjQt",
+    src: "/certificates/aws_cloud_practitioner.png",
+    name: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services",
+    date: "09/13/2026",
+    verifyUrl: "https://www.credly.com/badges/8222e181-0094-4d02-bc10-009a6b558b58",
   },
   {
     src: "/certificates/aws_cloud_foundations.png",
