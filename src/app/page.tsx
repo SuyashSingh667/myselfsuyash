@@ -198,11 +198,11 @@ const CERTIFICATIONS: PhotoStackItem[] = [
     verifyUrl: "https://www.credly.com/go/QnPOtGAS",
   },
   {
-    src: "/certificates/google_operating_systems.png",
-    name: "Operating Systems & Power User",
-    issuer: "Google / Coursera",
-    date: "03/06/2026",
-    verifyUrl: "https://coursera.org/verify/YY8E4Q03JLI7",
+    src: "/certificates/aws_data_engineering.png",
+    name: "AWS Data Engineering",
+    issuer: "AWS Academy",
+    date: "03/07/2026",
+    verifyUrl: "https://www.credly.com/go/nKX4bjQt",
   },
 ];
 

@@ -78,8 +78,8 @@ About Suyash:
   * AWS Certified AI Practitioner (Issued August 2026, Exp Aug 2029 - Credly: https://www.credly.com/badges/c676d757-074c-4c4b-91e6-a02d92b5c75e/public_url)
   * AWS Certified Cloud Practitioner (Issued September 2026, Exp Sept 2029 - Credly: https://www.credly.com/badges/8222e181-0094-4d02-bc10-009a6b558b58)
   * AWS Cloud Architecting (AWS Academy)
+  * AWS Data Engineering (AWS Academy)
   * AWS Cloud Foundations (AWS Academy)
-  * Operating Systems & Power User (Google / Coursera)
 - Contact/Links:
   * Email: suyashsingh667@gmail.com
   * LinkedIn: https://www.linkedin.com/in/suyashsingh0435
