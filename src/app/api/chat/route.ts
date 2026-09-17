@@ -68,7 +68,7 @@ About Suyash:
   * VoteSamvidhan: A secure blockchain-backed election integrity and digital voting platform with constitutional literacy.
   * SkySentinel: A space situational awareness platform monitoring satellite collision risks in Earth's orbit with real-time TLE 3D visualization. Built with React, TypeScript, Tailwind CSS, CesiumJS, Three.js, and Flask.
   * Tribe: A student campus event discovery, organization, and club planning system with AI recommendations.
-  * Pram Engine: A custom project engine providing VCR-style aesthetics and functionality.
+  * Pram Engine: Hardware-aware AI model compression and token optimization engine with real-time telemetry, Python SDK integration, and retro OS analytics.
 - Technical Skills:
   * Languages: Python, C++, SQL, HTML, CSS.
   * Frontend: React.js, Three.js, Responsive UI Design, Next.js, Tailwind CSS, TypeScript.
